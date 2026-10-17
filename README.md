@@ -52,7 +52,7 @@ I'm an Electronics and Telecommunication Engineering student passionate about bu
 ### 🤝 Connect With Me
 
 - 💼 LinkedIn: [Chaitanya Patil](linkedin.com/in/chaitanya-patil-7a922a30a)
-- 💻 GitHub: [Explore My Repositories](github.com/chaitanyapatil005)
+- 💻 GitHub: [GitHub](github.com/chaitanyapatil005)
 
 ### 💬 Interests
 
